@@ -18,7 +18,7 @@ import { AuthContext } from "./components/AuthProvider";
 const navItems = [
   { name: "Create", path: "/create" },
   { name: "Explore", path: "/" },
-  { name: "About", path: "https://github.com/rei-tsunemi" },
+  { name: "About", path: "https://github.com/rei-tsunemi/IChainVote" },
 ];
 
 export default function Header() {
