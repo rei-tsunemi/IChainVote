@@ -26,3 +26,24 @@ Clone the project and install dependencies:
 git clone https://github.com/rei-tsunemi/IChainVote.git
 cd IChainVote/
 npm install
+```
+
+### Explore
+Familiarize yourself with the project structure and configuration files. The template files can be customized to suit your development needs.
+
+## Development Workflow
+This workflow guides you through running and testing your project locally.
+
+## Running Locally
+
+Start the local ICP replica:
+```bash
+dfx start --background
+```
+
+## Deploy canisters and generate the Candid interface:
+
+``` bash
+dfx deploy
+```
+
