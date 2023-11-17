@@ -23,6 +23,6 @@ Ensure you have the following installed:
 
 Clone the project and install dependencies:
 ```bash
-git clone [repository-link](https://github.com/rei-tsunemi/IChainVote)
+git clone https://github.com/rei-tsunemi/IChainVote.git
 cd IChainVote/
 npm install
