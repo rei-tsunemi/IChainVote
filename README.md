@@ -6,7 +6,7 @@
 
 ### Project Site
 
-Access the live application: [IChainVote]()
+Access the live application: [IChainVote](https://2d2ju-bqaaa-aaaak-afemq-cai.icp0.io/)
 
 ## Getting Started
 
